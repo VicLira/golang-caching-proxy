@@ -62,3 +62,4 @@ go run main.go --clear-cache
 * O proxy é **genérico** e funciona para qualquer endpoint GET.
 * Cache em memória → reiniciar o servidor limpa automaticamente o cache.
 * Ideal para **dados que não mudam constantemente**, como listas de produtos ou categorias.
+* Essa é a resolução do [projeto](https://roadmap.sh/projects/caching-server) do site roadmap.sh.
