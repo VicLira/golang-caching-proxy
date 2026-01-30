@@ -19,7 +19,7 @@ Proxy HTTP em Go que encaminha requisições para um servidor de origem, cacheia
 1. **Clonar o repositório**
 
 ```bash
-git clone <url-do-repo>
+git clone https://github.com/VicLira/golang-caching-proxy.git
 cd caching-proxy
 ```
 
